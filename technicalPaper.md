@@ -3,7 +3,7 @@
 ## MVC Architecture
 
 <!-- ![alt text](<Screenshot 2025-04-01 at 2.41.03 PM.png>) -->
-![alt text](ChatGPT Image Apr 1, 2025, 04_10_45 PM.png)
+![ChatGPT Image Apr 1, 2025, 04_10_45 PM.png](https://github.com/Sai-krishna2610/LifeSkills/blob/5370c2e16347de3bdf371dfdea93f8dfd4475c29/ChatGPT%20Image%20Apr%201%2C%202025%2C%2004_10_45%20PM.png)
 MVC (Model-View-Controller) is a widely used design pattern for organizing code in web applications. It helps developers structure their projects in a way that separates concerns, making the codebase easier to manage and scale. The MVC pattern divides an application into three interconnected components:
 
 1. **Model** – This component is responsible for handling data logic. It interacts with the database, processes data, and applies business rules such as validation, saving, updating, and deleting records.
